@@ -1,1 +1,1 @@
-Aprenendendo a usar o Git com o Yt
+Aprenendendo a usar o Git com o Yt é fácil
